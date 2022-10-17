@@ -13,6 +13,7 @@
     margin-left: auto;
     margin-right: auto;
     min-width: 50%;
+    max-width: 95%;
 }
 
 .rise-enabled .text_cell_render.rendered_html p,
