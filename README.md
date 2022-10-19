@@ -14,7 +14,8 @@ Para jugar **ya!** con las slides: [![Binder](https://mybinder.org/badge_logo.sv
   decisiones. Sesgos cognitivos en las decisiones.
 - Problemas con objetivos múltiples. generalidades. Selección de criterios y
   variables de decisión; escalas; normalización. Cálculo del grado de
-  importancia de las  variables de decisión: Desvío, Entropía y el método CRITIC.
+  importancia de las  variables de decisión: Desvío, Entropía y el método
+  CRITIC.
 - Métodos suma ponderada, TOPSIS y familia de métodos ELECTRE.
 - Reversión de rankings, y análisis de sensibilidad. Paradoja de los
   métodos multicriterio.
