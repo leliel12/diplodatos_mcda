@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.vscode/
+pyproject.toml
+slides/algo.py slides/conf.py
+slides/algo.py
+slides/Untitled.ipynb
