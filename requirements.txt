@@ -2,7 +2,7 @@ ipdb
 jupyterlab
 pipdeptree
 rise
-scikit-criteria==0.8.1
+scikit-criteria==0.8.2
 wheel
 numpy
 scipy
