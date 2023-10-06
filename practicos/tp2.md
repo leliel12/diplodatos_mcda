@@ -39,11 +39,11 @@ Hay dos templates a rellenar depende el caso:
 
 Buscar donde dice: `# YOUR CODE GOES HERE`
  
-- [Template para funciones de agregación](./templates/tpl_agg.ipynb)
+- [Template para funciones de agregación](./tp2_tpl/tpl_agg.ipynb)
 
-  > Algunas ideas de agregación: Promethee, RIM, y  ~VIKOR~ (Tomado)
+  > Algunas ideas de agregación: Promethee, RIM, y  ~VIKOR~ (Tomado)... pregunten.
 
-- [Template para transformadores de pesos](./templates/tpl_weight.ipynb)
+- [Template para transformadores de pesos](./tp2_tpl/tpl_weight.ipynb)
 
     > Algunas ideas de transformadores para calcular pesos: CILOS, MEREC, IDOCRIW, GINI.
     
