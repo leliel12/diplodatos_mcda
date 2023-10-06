@@ -1,14 +1,14 @@
 # Métodos Multicriterio Orientados al Tratamiento Automático de Datos
 ## Diplomatura en Ciencias de Datos, Aprendizaje Automático y sus Aplicaciones
 
-Para jugar **ya!** con las slides: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leliel12/diplodatos_mcda/2022)
+Para jugar **ya!** con las slides: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/leliel12/diplodatos_mcda/2023)
 
-### Docentes
+### 🏫 Docentes
 
 - Juan B. Cabral (FaMAF-UNC-CONICET)
 - Nadia Luzcywo (FCE-UNC)
 
-### Contenido
+### 🗂️ Contenido
 
 - Teoría de las Perspectivas. La elección racional y el encuadre de las
   decisiones. Sesgos cognitivos en las decisiones.
@@ -20,7 +20,7 @@ Para jugar **ya!** con las slides: [![Binder](https://mybinder.org/badge_logo.sv
 - Reversión de rankings, y análisis de sensibilidad. Paradoja de los
   métodos multicriterio.
 
-### Bibliografía:
+### 📖 Bibliografía:
 
 > Aytekin, A. (2021). Comparative analysis of the normalization techniques in
 > the context of MCDM problems. Decision Making: Applications in Management
@@ -42,24 +42,16 @@ Para jugar **ya!** con las slides: [![Binder](https://mybinder.org/badge_logo.sv
 > Tzeng, G. H., & Huang, J. J. (2011). Multiple attribute decision making:
 > methods and applications. CRC press.
 
-### Cantidad de horas
+### ⏰ Cantidad de horas
 
 16 horas sincrónicas + 8 de apoyo
 
 
-### Método de evaluación
+### 💯 Método de evaluación
 
 Se evaluará mediante la presentación de dos trabajos prácticos donde los
 alumnos harán uso de la suite Jupyter y la librería Scikit-Criteria, para la
 implementación práctica de los contenidos vistos en la materia.
 
-
-- El primer trabajo práctico consistirá en el desarrollo de un método
-  multicriterio, utilizando el soporte disponible en las estructuras y
-  funciones básicas de Scikit-Criteria.
-
-- El segundo consistirá en el análisis y selección de alternativas utilizando
-  todos los métodos disponibles en la librería y la presentación de un informe
-  explicativo. Se presentarán conjuntos de datos para cada tarea, y
-  adicionalmente se permitirá a los alumnos elegir un problema a trabajar
-  distinto.
+- [🧠 Práctico 1](practicos/tp1.md)
+- [🖥️ Práctico 2](practicos/tp2.md)
