@@ -1,5 +1,12 @@
 # 🖥️ Práctico 2 - Analisis multicriterio
 
+## Detalles de como presentar
+
+- **Grupos** de 3 o 4.
+- **Formato** subir el notebook al aula virtual.
+
+## Enunciados
+
 Este práctico tiene varias alternativas para ser realizado:
 
 1. Se puede realizar un MCDA completo con una base de datos.
@@ -7,7 +14,7 @@ Este práctico tiene varias alternativas para ser realizado:
 3. Buscar el criterio crítico en el dataset de ejemplo.
 
 
-## 1. MCDA completo con una base de datos
+### 1. MCDA completo con una base de datos
 
 > Utilizando la bases de datos [WorldCupData(1930-2018)](https://www.kaggle.com/datasets/mozattt/worldcupdata19302018)
 
@@ -30,8 +37,7 @@ Se pide definir almenos 20 criterios que resuman las características a buscar a
 10. Hacer un análisis as post-mortem que involucre comparaciones directas y rank-reversals 1.
 
 
-
-## 2. Implementar
+### 2. Implementar
 
 - Si quieren implementar un método, se sugiere contactarse con el docente y discutir cual método implementar.
 
@@ -47,8 +53,8 @@ Buscar donde dice: `# YOUR CODE GOES HERE`
 
     > Algunas ideas de transformadores para calcular pesos: CILOS, MEREC, IDOCRIW, GINI.
     
-## 3. Buscar criterio crítico
+### 3. Buscar criterio crítico
 
-Si vas a hacer esto, pregunta y mas vale que sepas optimización así  que preguntme
+Si vas a hacer esto, pregunta! (y mas vale que sepas optimización)
 
 
