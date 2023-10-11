@@ -18,7 +18,7 @@ Este práctico tiene varias alternativas para ser realizado:
 
 > Utilizando la bases de datos [WorldCupData(1930-2018)](https://www.kaggle.com/datasets/mozattt/worldcupdata19302018)
 
-> Ordenar los partidos según: **cual fue la mejor copa del mundo disputada hasta la fecha**.
+> Ordenar las alternativas según **cual fue la mejor copa del mundo disputada hasta la fecha**.
 
 > Para eso tienen que tener en cuenta el fairplay, cantidad de puntos, cantidad de goles, importancia del partido, clima en las ciudades, asistencia por partido, asistencia total etc.
 
